@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:trusty
 MAINTAINER Stanley Ng "stanleyhlng@yahoo.com.hk"
 ENV REFRESHED_AT 2014-12-29
 RUN apt-get update
